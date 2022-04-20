@@ -547,6 +547,7 @@ i{
     }
     #txt{
         font-size:50px;
+        margin-left: -15px;
     }
     #txt1{
         flex-direction: column;
